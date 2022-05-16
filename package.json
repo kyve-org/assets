@@ -1,0 +1,18 @@
+{
+  "scripts": {
+    "upload:logo": "ts-node src/uploadLogo.ts",
+    "format": "prettier --write ."
+  },
+  "prettier": {
+    "singleQuote": true
+  },
+  "dependencies": {
+    "arweave": "^1.10.23"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.33",
+    "prettier": "^2.6.2",
+    "ts-node": "^10.7.0",
+    "typescript": "^4.6.4"
+  }
+}
