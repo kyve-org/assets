@@ -7,3 +7,7 @@ Cosmos Hub - [`TCHDYB2xfk4VcWqyxApoWiFgr354gNSMdIliv2KnkRo`](https://arweave.net
 Evmos - [`uRhM5q7a2jVbze8xjLomhWiM6I7mCBmZo16xzsMaKtA`](https://arweave.net/uRhM5q7a2jVbze8xjLomhWiM6I7mCBmZo16xzsMaKtA)
 
 Injective - [`Udz2Gr3UL0Xz3ocdVQzqQl4HsEvu0kCmRPPEKH1BdXA`](https://arweave.net/Udz2Gr3UL0Xz3ocdVQzqQl4HsEvu0kCmRPPEKH1BdXA)
+
+Juno - [`WmxR7hkQx8X3NMn7CxiizFFM0yM3ZWc0el8gd32sjdM`](https://arweave.net/WmxR7hkQx8X3NMn7CxiizFFM0yM3ZWc0el8gd32sjdM)
+
+Lens - [`KeHn7709llnT2pLgSZ50QTb5VceVGPK8WYXxqBFPvbM`](https://arweave.net/KeHn7709llnT2pLgSZ50QTb5VceVGPK8WYXxqBFPvbM)
