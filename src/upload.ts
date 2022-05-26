@@ -8,7 +8,11 @@ const client = new Arweave({
 const jwk = JSON.parse(readFileSync('./arweave.json', 'utf-8'));
 
 async function createVanityTx(): Promise<Transaction> {
-  const path = `./logos/${process.argv[2]}.svg`;
+  const path = process.argv[2];
+
+  let type: string | undefined;
+  if (path.endsWith('.json')) type = 'application/json';
+  if (path.endsWith('.svg')) type = 'image/svg+xml';
 
   const tx = await client.createTransaction(
     {
@@ -17,7 +21,7 @@ async function createVanityTx(): Promise<Transaction> {
     jwk
   );
 
-  tx.addTag('Content-Type', 'image/svg+xml');
+  if (type) tx.addTag('Content-Type', type);
   await client.transactions.sign(tx, jwk);
 
   if (tx.id.includes('-') || tx.id.includes('_')) {
