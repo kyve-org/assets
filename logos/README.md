@@ -13,3 +13,5 @@ Injective - [`Udz2Gr3UL0Xz3ocdVQzqQl4HsEvu0kCmRPPEKH1BdXA`](https://arweave.net/
 Juno - [`WmxR7hkQx8X3NMn7CxiizFFM0yM3ZWc0el8gd32sjdM`](https://arweave.net/WmxR7hkQx8X3NMn7CxiizFFM0yM3ZWc0el8gd32sjdM)
 
 Lens - [`KeHn7709llnT2pLgSZ50QTb5VceVGPK8WYXxqBFPvbM`](https://arweave.net/KeHn7709llnT2pLgSZ50QTb5VceVGPK8WYXxqBFPvbM)
+
+Terra - [`CCvoxph2tNmhtWz3sMDqMGXBPfqmte63Iuh5CvJ0Oic`](https://arweave.net/CCvoxph2tNmhtWz3sMDqMGXBPfqmte63Iuh5CvJ0Oic)
