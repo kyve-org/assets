@@ -15,3 +15,5 @@ Juno - [`WmxR7hkQx8X3NMn7CxiizFFM0yM3ZWc0el8gd32sjdM`](https://arweave.net/WmxR7
 Lens - [`KeHn7709llnT2pLgSZ50QTb5VceVGPK8WYXxqBFPvbM`](https://arweave.net/KeHn7709llnT2pLgSZ50QTb5VceVGPK8WYXxqBFPvbM)
 
 Terra - [`CCvoxph2tNmhtWz3sMDqMGXBPfqmte63Iuh5CvJ0Oic`](https://arweave.net/CCvoxph2tNmhtWz3sMDqMGXBPfqmte63Iuh5CvJ0Oic)
+
+Umee - [`Vzm4fZz0bpu7s6cdzVRQfMDgQo48htfY7rn4GX3k81Y`](https://arweave.net/Vzm4fZz0bpu7s6cdzVRQfMDgQo48htfY7rn4GX3k81Y)
