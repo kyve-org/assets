@@ -12,6 +12,8 @@ Injective - [`Udz2Gr3UL0Xz3ocdVQzqQl4HsEvu0kCmRPPEKH1BdXA`](https://arweave.net/
 
 Juno - [`WmxR7hkQx8X3NMn7CxiizFFM0yM3ZWc0el8gd32sjdM`](https://arweave.net/WmxR7hkQx8X3NMn7CxiizFFM0yM3ZWc0el8gd32sjdM)
 
+Kusama - [`FjUsRdTjcQX7KkS1TYdFncPSKxnlOu58z07dSSVWl5s`](https://arweave.net/FjUsRdTjcQX7KkS1TYdFncPSKxnlOu58z07dSSVWl5s)
+
 Lens - [`KeHn7709llnT2pLgSZ50QTb5VceVGPK8WYXxqBFPvbM`](https://arweave.net/KeHn7709llnT2pLgSZ50QTb5VceVGPK8WYXxqBFPvbM)
 
 Polkadot - [`4kgpckyXwlFOUjY4CSAL7OSg93BGujUIRfOOsPTaNyE`](https://arweave.net/4kgpckyXwlFOUjY4CSAL7OSg93BGujUIRfOOsPTaNyE)
