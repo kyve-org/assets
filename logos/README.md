@@ -20,6 +20,8 @@ Lens - [`KeHn7709llnT2pLgSZ50QTb5VceVGPK8WYXxqBFPvbM`](https://arweave.net/KeHn7
 
 Polkadot - [`4kgpckyXwlFOUjY4CSAL7OSg93BGujUIRfOOsPTaNyE`](https://arweave.net/4kgpckyXwlFOUjY4CSAL7OSg93BGujUIRfOOsPTaNyE)
 
+Sei - [`bM1vznD0YdnRuB2BL8KyDB8pp30gej1b2A5FlPgBlWE`](https://arweave.net/bM1vznD0YdnRuB2BL8KyDB8pp30gej1b2A5FlPgBlWE)
+
 Terra - [`CCvoxph2tNmhtWz3sMDqMGXBPfqmte63Iuh5CvJ0Oic`](https://arweave.net/CCvoxph2tNmhtWz3sMDqMGXBPfqmte63Iuh5CvJ0Oic)
 
 Umee - [`Vzm4fZz0bpu7s6cdzVRQfMDgQo48htfY7rn4GX3k81Y`](https://arweave.net/Vzm4fZz0bpu7s6cdzVRQfMDgQo48htfY7rn4GX3k81Y)
